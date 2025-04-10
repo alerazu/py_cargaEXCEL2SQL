@@ -46,3 +46,4 @@ if __name__ == "__main__":
     archivo_excel = "E:/_testExcelSql/clientes_xy.xlsx"
     
     limpiar_y_convertir(archivo_csv, archivo_excel)
+    #jnjnjn
